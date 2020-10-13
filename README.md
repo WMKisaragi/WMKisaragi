@@ -1,16 +1,16 @@
-[![](https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WMKisaragi/WMKisaragi/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WMKisaragi/WMKisaragi/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WMKisaragi/WMKisaragi/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WMKisaragi/WMKisaragi/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/kmdkuk/posts.svg)](http://qiita.com/kmdkuk)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kmdkuk/contributions.svg)](http://qiita.com/kmdkuk)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/kmdkuk/followers.svg)](http://qiita.com/kmdkuk)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/wmkisaragi/posts.svg)](http://qiita.com/wmkisaragi)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/wmkisaragi/contributions.svg)](http://qiita.com/wmkisaragi)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/wmkisaragi/followers.svg)](http://qiita.com/wmkisaragi)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kmdkuk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WMKisaragi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
-**kmdkuk/kmdkuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WMKisaragi/WMkisaragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
